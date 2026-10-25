@@ -1,0 +1,13 @@
+.build/
+dist/
+.DS_Store
+Vendor/*.tgz
+.env
+.env.*
+auth.json
+*.auth.json
+registry.json
+*.log
+
+windows/node_modules/
+windows/out/
